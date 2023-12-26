@@ -1,2 +1,6 @@
 # rust target folder
 **/target/
+
+# assets and results
+/assets
+/results
